@@ -10,6 +10,17 @@ Time Complexity: O(N)
 
 To run the Algorithm, run `script.py`.
 
+# Percentage Calculations
+
+Let `'` denote a prime, which reflects an update. 
+
+- `x': z`
+- `y': (1/2)x` 
+- `z': 2y`
+
+We can also state the relationship as:
+`x = 2y = z`
+
 # Extras 
 
 Percentages may be not accurate at all times, however still approaches the ratio of `2:1:2`
