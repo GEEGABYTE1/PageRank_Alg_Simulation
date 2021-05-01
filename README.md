@@ -2,7 +2,7 @@
 
 VERY Basic Simulation of Google's PageRank Algorithm made in Python.
 
-Algorithm only takes 3 websites (Vertexes, or Nodes) only at once, but runs just like Google's PageRank. However, Google's PageRank takes more than a billion variables at once ;) 
+Algorithm only takes 3 websites (Vertices, or Nodes) only at once, but runs just like Google's PageRank. However, Google's PageRank takes more than a billion variables at once ;) 
 
 The Graph data structure was used for the underlying base of the algorithm. 
 
