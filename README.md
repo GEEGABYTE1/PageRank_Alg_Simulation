@@ -1,2 +1,5 @@
-# PageRank_Alg_Simulation
+# PageRank Simulation
 Basic Simulation of Google's PageRank Algorithm made in Python.
+
+
+Under Development! 
