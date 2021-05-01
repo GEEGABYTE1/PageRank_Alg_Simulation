@@ -21,6 +21,11 @@ Let `'` denote a prime, which reflects an update of the vertex.
 We can also state the relationship as:
 `x = 2y = z`
 
+# Model 
+
+![X](https://user-images.githubusercontent.com/68164588/116796548-49d8b300-aaab-11eb-8ddb-41fec7242c83.png)
+
+
 # Extras 
 
 Percentages may be not accurate at all times, however still approaches the ratio of `2:1:2`
