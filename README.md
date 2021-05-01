@@ -12,7 +12,7 @@ To run the Algorithm, run `script.py`.
 
 # Percentage Calculations
 
-Let `'` denote a prime, which reflects an update. 
+Let `'` denote a prime, which reflects an update of the vertex. 
 
 - `x': z`
 - `y': (1/2)x` 
